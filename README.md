@@ -2,13 +2,14 @@
 
 This project is written in PHP.
 
-It allows you to archive Emails from multiple sources.
-
-The interface use Bootstrap 5.
-
-Emails can be searched using many parameters including : dates, attachments, subjects, recipients, body, etc. 
-
-A permission management system allows users to access many emails and aliases in addition to their own. 
+## Features
+* archive Emails from multiple sources
+* search archives emails using modern Bootstrap 5 interface
+* permission management allowing users to access more emails addresses/aliases than their own
+* retention policies to automatically purge very old archives
+* lightweight software (2Mb of code with very little dependencies)
+* open source
+* self hosted
 
 ## Supported emails sourced
 
