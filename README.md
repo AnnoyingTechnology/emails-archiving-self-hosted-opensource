@@ -7,6 +7,7 @@ This project is written in PHP.
 * search archives emails using modern Bootstrap 5 interface
 * permission management allowing users to access more emails addresses/aliases than their own
 * retention policies to automatically purge very old archives
+* deduplication to optimize disk space use
 * lightweight software (2Mb of code with very little dependencies)
 * open source
 * self hosted
